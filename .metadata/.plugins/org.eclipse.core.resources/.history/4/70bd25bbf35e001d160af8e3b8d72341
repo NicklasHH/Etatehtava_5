@@ -124,7 +124,7 @@ function poistaAsiakas(asiakas_id, sukunimi){
    		if(responseObj.response==0){
 			alert("Asiakkaan poisto epäonnistui.");	        	
         }else if(responseObj.response==1){ 
-			document.getElementById("rivi_"+asiakas_id).style.backgroundColor="red";
+			document.getElementById("rivi_"+id).style.backgroundColor="red";
 			alert("Asiakkaan " + decodeURI(sukunimi) +" poisto onnistui."); //decodeURI() muutetaan enkoodatut merkit takaisin normaaliksi kirjoitukseksi
 			haeAsiakkaat();        	
 		}

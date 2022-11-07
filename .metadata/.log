@@ -1870,3 +1870,9 @@ java.util.ConcurrentModificationException
 
 !ENTRY org.eclipse.lsp4e 1 0 2022-11-08 00:55:41.842
 !MESSAGE [Info]	ESLint server running in node v16.14.2
+
+!ENTRY org.eclipse.lsp4e 1 0 2022-11-08 01:23:42.804
+!MESSAGE [Info]	ESLint server running in node v16.14.2
+
+!ENTRY org.eclipse.lsp4e 1 0 2022-11-08 01:23:43.012
+!MESSAGE [Info]	ESLint server running in node v16.14.2
